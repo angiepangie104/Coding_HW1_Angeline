@@ -104,6 +104,7 @@
 }
 .innercontainer{
     width: 50%;
+    float: left;
 }
 .upcoming-event{
     font-family: 'Nunito', sans-serif;
@@ -136,4 +137,65 @@
     float: right;
     margin-right: 432px;
     margin-top: 9px;
+}
+.innercontainer-right{
+    float: right;
+    width: 50%;
+}
+.police-group{
+    margin-top: 40px;
+    margin-left: 25px;
+    width: 87%;
+}
+.what-they-did{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35pt;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.what-they-did-text{
+    max-width: 87%;
+    margin-top: 10px;
+    margin-left: 25px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13pt;
+}
+.join-us-text{
+    max-width: 87%;
+    margin-top: 81px;
+    margin-left: 25px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13pt;
+}
+.email-link{
+    color: #9C2626;
+}
+.last-image{
+    margin-left: 25px;
+    width: 94%;
+}
+.last-image-size{
+    width: 100%;
+    top: 40px;
+    position: relative;
+}
+.footer{
+    background-color: #0B0B0B;
+    width: 102%; 
+    height: 100px;
+    top: 75px;
+    position: relative;
+    left:-10px;
+}
+.footer-text{
+    color:white;
+    font-family: 'Nunito', sans-serif;
+    padding-left: 25px;
+    height: 20px;
+    padding-top: 50px;
+}
+.buttons-right{
+    float: right;
+    padding-right: 70px;
 }
