@@ -1,0 +1,56 @@
+.nav-bar{
+    background-color: #0B0B0B;
+    padding: 0;
+}
+.logo-placement{
+    position: relative;
+    margin: 12px 0px 12px 50px;
+}
+.inline-block{
+    display: inline-block;
+    color: #F5F094;
+    position: absolute;
+    margin: 30px 40px;
+    font-family: 'Nunito', sans-serif;
+}
+.navigation-text{
+    display: inline-block;
+    color: white;
+    position: relative;
+    margin: 5px 0px 5px 70px;
+}
+.remove{
+    padding: 0;
+    border: none;
+    background: none;
+    position: relative;
+    margin-left: 5px;
+}
+.right{
+    position: relative;
+    padding-left: 70px;
+}
+.ribbon{
+    background-color: #FFCF5E;
+    padding: 0;
+    height: 25px;
+}
+.ribbon-text{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-size: small;
+    margin: 3px 0px;
+    width: 80%;
+    float: left;
+}
+.donate{
+    background-color: red;
+    color: white;
+    position: relative;
+    display: inline-block;
+    border-radius: 25px;
+    border: none;
+    float: right;
+    margin-right: 20px;
+    margin-top: 4px;
+}
