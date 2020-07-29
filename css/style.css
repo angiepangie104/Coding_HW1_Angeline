@@ -5,6 +5,7 @@
     left: 0px;
     top: 0px;
     width: 100%;
+    z-index: 99999999;
 }
 .logo-placement{
     position: relative;
@@ -78,4 +79,61 @@
     margin-top: 119px;
     width: 102%;
     left: -10px;
+}
+.mission-title{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35pt;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.mission-text{
+    max-width: 87%;
+    margin-top: 10px;
+    margin-left: 25px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13pt;
+}
+.hoodie{
+    margin-top: 25px;
+    margin-left: 25px;
+    width: 87%;
+}
+.outercontainer{
+    width: 100%;
+}
+.innercontainer{
+    width: 50%;
+}
+.upcoming-event{
+    font-family: 'Nunito', sans-serif;
+    font-size: 35pt;
+    font-weight: bold;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.upcoming-text{
+    max-width: 87%;
+    margin-top: 10px;
+    margin-left: 25px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 13pt;
+}
+.upcoming-events-button{
+    background-color:#230000;
+    color: white;
+    font-size: 15px;
+    margin-top: 10px;
+    margin-left: 25px;
+    float: left;
+}
+.triangle{
+	width: 0;
+	height: 0;
+	border-top: 12px solid transparent;
+	border-left: 24px solid #230000;
+    border-bottom: 12px solid transparent;
+    float: right;
+    margin-right: 432px;
+    margin-top: 9px;
 }
